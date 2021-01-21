@@ -1,6 +1,6 @@
 # Data-collection-and-Visualization-in-Finance_Technical-Analysis-of-Stocks
 ## Project Overview:
-- Perfoemed Correlation Analysis of Stocks on daily price-volume stock market data.
+- Performed Correlation Analysis of Stocks on daily price-volume stock market data.
 - Attempted to showcase data analytics and visualization techniques can be incorporated in the world of finance.
 
 ## Code and Resources used:
