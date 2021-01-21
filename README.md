@@ -17,3 +17,4 @@
 - Plotting pairplot and jointplot
 - Calculate the 7-day rolling mean(also called moving average) of the daily returns, then compute the standard deviation
 
+<img src='portfolio.png' width='300' height='300'>
